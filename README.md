@@ -59,4 +59,4 @@ To ensure the app runs consistently on any machine, I containerized it with Dock
 
 I’m excited to share that I have deployed this app on Streamlit Community Cloud so that it can be assessed globally! With Streamlit Cloud, the app is hosted publicly, meaning anyone in the world can interact with it via a simple web link.
 
-You can visit the app here: https://share.streamlit.io/your-username/Diabetes_prediction/main/streamlit_app.py
+You can visit the app here: https://diabetesprediction-etsk2g2uwatuzydacdkvzp.streamlit.app/
